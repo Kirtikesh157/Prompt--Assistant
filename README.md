@@ -37,7 +37,7 @@ Prompt-Engineering-Assistant/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Kirtikesh157/Prompt--Assisaant
+git clone https://github.com/Kirtikesh157/Prompt--Assistant
 ```
 
 2. Install the required packages
