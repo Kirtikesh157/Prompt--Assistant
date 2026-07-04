@@ -25,7 +25,7 @@ An AI-powered Prompt Engineering Assistant built with **Python**, **Streamlit**,
 ```text
 Prompt-Engineering-Assistant/
 │── app.py
-│── prompt_engineering_assistant.txt
+│── PEA.txt
 │── requirements.txt
 │── .env
 │── image.png
@@ -37,7 +37,7 @@ Prompt-Engineering-Assistant/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Kirtikesh157/-Prompt-Engineering-Assistant
+git clone https://github.com/Kirtikesh157/Prompt--Assisaant
 ```
 
 2. Install the required packages
